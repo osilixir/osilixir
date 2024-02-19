@@ -6,4 +6,4 @@ My Interests are :
   - Finance
   - Automation
 
-Hope we(developers) can help future generation.
+Want to be 'Good-Designer' rather than 'Good-Coder'
